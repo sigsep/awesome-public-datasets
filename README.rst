@@ -330,6 +330,7 @@ Machine Learning
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
 * `Registered Meteorites on Earth <http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized>`_
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
+* `MUSDB Multitrack Music Stems <https://sigsep.github.io/musdb>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
 * `Youtube 8m <https://research.google.com/youtube8m/download.html>`_
